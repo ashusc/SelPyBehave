@@ -1,0 +1,11 @@
+{
+	"author": "Ashutosh Mishra",
+	"Started": "17April2017",
+	"details": "Automation Framework with Selenium+Behave in Python",
+	"settings": {
+		"windowsDriverPath": {
+			"chromeDriverPath": "C:\\DRIVERS\\chromedriver_win32\\chromedriver.exe",
+			"firefoxDriverPath": "C:\\DRIVERS\\geckodriver_win32\\geckodriver.exe"
+		}
+	}
+}
