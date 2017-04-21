@@ -3,7 +3,7 @@
 from Utils.Printer import Printer
 from Utils.Logger import Logger
 from Utils.FrameworkUtil import FrameworkUtil
-from Features.steps.Step import Step
+from steps.Steps import Steps
 
 ##########################################################
 #Importing From Features Packages
